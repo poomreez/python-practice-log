@@ -1,0 +1,6 @@
+names = ["poom", "alice", "bob"]
+upper_names = []
+for name in names:
+    upper_names.append(name.upper())
+
+print(upper_names)
